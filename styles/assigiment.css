@@ -1,0 +1,41 @@
+#main {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-size: 20px;
+    top: 50%;
+    bottom: 50%;
+    border-bottom-color: orange;
+    height: 753px;
+    width: 1587px;
+}
+
+.container2 {
+    position: absolute;
+    left: 60%;
+    top: 10%;
+}
+
+.header {
+    background-color: bisque;
+}
+
+#main2 {
+    display: flex;
+    grid-template-columns: 50% 50%;
+}
+
+.section2 {
+    background-color: url(ff.png);
+}
+
+.section1 {
+    position: absolute;
+    left: 60%;
+    top:
+}
+
+footer {
+    grid-template-columns: 50% 50%;
+    background-color: black;
+    color: aliceblue;
+}
